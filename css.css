@@ -1,0 +1,54 @@
+/* Định dạng cho thẻ body */
+body {
+    font-family: 'Arial', sans-serif; /* Thay đổi phông chữ */
+    font-size: 16px; /* Thay đổi kích thước phông chữ */
+    margin: 0;
+    padding: 0;
+}
+
+/* Định kiểu cho thẻ tiêu đề */
+header {
+    background-color: #4CAF50; /* Màu nền cho tiêu đề */
+    color: white; /* Màu chữ */
+    padding: 20px;
+}
+
+/* Định kiểu cho thẻ điều hướng */
+nav {
+    background-color: #333; /* Màu nền cho điều hướng */
+    overflow: hidden;
+}
+
+/* Định dạng cho thẻ chính */
+main {
+    background-color: #f4f4f4; /* Màu nền cho thẻ chính */
+    font-size: 18px; /* Kích thước phông chữ cho thẻ chính */
+    padding: 20px;
+}
+
+/* Định dạng cho thẻ chân trang */
+footer {
+    background-color: #222; /* Màu nền cho chân trang */
+    color: white; /* Màu chữ */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Định dạng cho thẻ li */
+li {
+    display: inline; /* Hiển thị theo dòng */
+    width: auto; /* Chiều rộng tự động */
+    margin: 0 15px; /* Khoảng cách giữa các phần tử */
+}
+
+/* Định dạng cho thẻ h1 */
+h1 {
+    text-align: center; /* Căn giữa văn bản */
+    font-family: 'Georgia', serif; /* Phông chữ cho h1 */
+    color: #333; /* Màu sắc cho h1 */
+}
+
+/* Định dạng cho thẻ p */
+p {
+    line-height: 1.6; /* Chiều cao dòng */
+}
